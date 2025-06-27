@@ -7,12 +7,12 @@ Key Objectives
 - Track **profit trends** over time
 - Explore **sales by product category**
 
-- Dashboard Features
+Dashboard Features
 - Slicers for filtering by **country**, **category**, and **month**
 - KPIs: Total Sales, Profit, Units Sold
 - Line and bar charts for trends and comparisons
 
-- Outcome
+Outcome
 This project supports business stakeholders in:
 - Identifying top-performing markets and seasons
 - Making inventory decisions based on category trends
